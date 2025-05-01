@@ -8,7 +8,7 @@ import Router from '@/Router';
 import { store } from '@/state/store';
 
 import './index.css';
-
+//
 // DO NOT REMOVE: Seeds the local storage database with data
 seedLocalDatabase();
 
